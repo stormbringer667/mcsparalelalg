@@ -1,0 +1,2 @@
+# mcsparalelalg
+assginment 1
